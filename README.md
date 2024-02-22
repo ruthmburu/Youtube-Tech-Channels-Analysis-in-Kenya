@@ -1,4 +1,5 @@
-**# Youtube-Vlog-Channels-Analysis-in-Kenya**
+*# Youtube-Vlog-Channels-Analysis-in-Kenya*
+
 This project aims to analyze Top 5 YouTube Tech channels in Kenya using Python. The analysis focuses on various aspects such as video data, subscriber trends, and engagement metrics.
 # Overview
 YouTube has become a prominent platform for content creators in Kenya, with channels covering diverse topics ranging from entertainment, education, news, and more. This project focuses on the top 5 tech channels and how understanding the performance and dynamics of these channels can provide valuable insights for creators, marketers, and researchers.
